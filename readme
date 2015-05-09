@@ -1,0 +1,45 @@
+- demo giai thuat fp-tree
+- da hoan thanh
+	+ doc file input don gian
+	+ duyet qua data lan 1 tim do ho tro cua tung item
+	+ duyet qua data lan 2 sap xep transaction theo thu tu giam dan
+cua do ho tro de goi ham insert_tree theo cach de quy
+	+ simple node and tree: ho tro duoc mot node co nhieu phan tu con
+	+ insert_tree de quy
+	/**
+	* 2. how to solved error when tree find node 4 (in testcase
+	* [2,1,4]) has been added before ??? 3. how to use height of node
+	* to implements find in height to avoid error 2 ???
+	*/
+
+	/**
+	* 4. how to find in node parent using recursive ???
+	*/
+	
+	
+- dang hien thuc
+
+	/**
+	* how to read real input file ???
+	*/
+	
+	/**
+	* what are differents of single prefix-path and multipath and how to
+	* find it ???
+	*/
+	
+	/**
+	* how to use recursive here ???
+	*/
+	
+	/**
+	* 5. how to add parent to implements step 3 ???
+	*/
+	
+	/**
+	 * 6. how to find common prefix path of one node (example 5) ???
+	 */
+	 
+	 /**
+	 * 7. how to read real input ???
+	 */
